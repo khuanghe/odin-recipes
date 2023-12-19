@@ -1,3 +1,3 @@
 # odin-recipes
 TOR projects
-Hello Odin!
+I am currently practicing TOR foundations and this project is to practice HTML.
